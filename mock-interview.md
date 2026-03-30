@@ -5,7 +5,7 @@
 ### Mock Interview Recording
 [I have completed and recorded a mock interview covering common interview questions and will submit the video file separately as required.]
 
-## Reflection Using STAR Technique
+## Reflection: Mock Interview Creation (STAR Method)
 
 **Situation:**
 I participated in a comprehensive mock interview session designed to simulate a real technical interview for a junior developer position. The interview covered both behavioral questions and technical concepts relevant to entry-level ICT roles.
