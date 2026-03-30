@@ -6,7 +6,7 @@
 ## Portfolio Sections
 
 1. [CV](cv.md)
-2. [CV-pdf](2026CVReview.pdf)
+2. [CV-pdf](assets/2026-CV-Review.pdf)
 3. [Mock Interview](mock-interview.md)
 
 ---
