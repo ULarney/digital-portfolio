@@ -1,8 +1,8 @@
 # My Digital Portfolio 
-**Name:** Uzair Larney 
+**Name:** Uzair Larney  
+**Student Number:** 230979238  
 **Course:** Diploma in Information and Communication Technology  
 **Subject:** Project Presentation 3 | PRP372S
-**Student Number:** 230979238
 
 ## Portfolio Sections
 
