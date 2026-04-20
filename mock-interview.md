@@ -3,7 +3,7 @@
 ## Evidence of Learning
 
 ### Mock Interview Recording
-[I have completed and recorded a mock interview covering common interview questions and will submit the video file separately as required.]
+I have completed and recorded a mock interview covering common interview questions and will submit the video file separately as required.
 
 ## Reflection: Mock Interview Creation (STAR Method)
 
